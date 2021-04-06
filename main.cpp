@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Lab11main.cpp
+// Name        : main.cpp
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
